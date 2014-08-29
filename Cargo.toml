@@ -1,0 +1,5 @@
+[package]
+
+name = "rusty_ants"
+version = "0.0.1"
+authors = ["Kai Strempel <kstrempell@gmail.com>"]
